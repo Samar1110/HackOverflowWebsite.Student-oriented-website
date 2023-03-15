@@ -3,6 +3,10 @@ This was our submission for the final Problem Statement of HackOverFlow.
 The PS asked us to make a _student oriented website_ , for which we made **Dixtra** .
 The key motivation behind it was to make something which can help it's user to manage his/her daily tasks along with upskiling himself. The site offers multiple tools to the user for the same. These include a To-Do list, Note taking section, a page to save important links, Calendar and an Upskill page with various resources. These tools will certainly help any student.
 
+**This is a video description of the project :**
+
+https://drive.google.com/file/d/1jc2iQZfUXXg8iGFK1jFXTsjfL9l2gZcB/view?usp=share_link
+
 # This Readme file contain links of all the Github Repositories of the websites within
 
 **Home Page**
